@@ -7,11 +7,12 @@ Getting started: this repo contains a README.md file that contains information a
 Authors: Dina Elkafrawy 37-2387
          zeiad helmy 37-14353
          shrouk alaa 37-6288
+         Abdelrahman Ossama 34-17114
 
 About: Dina Elkafrawy:- food lover, obsessed with series and books, lives alone.
        zeiad  helmy  :-  professional cards player..... 
        Shrouk Alaa :- never missed a lecture and I enjoy eating other peoples food.
-
+       Abdelrahman Ossama :- optimatiztion geeek 
 Purpose of repository: trying to learn the basics of github and learning how to work in a team. 
 
 
